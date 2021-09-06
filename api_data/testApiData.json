@@ -1,0 +1,12 @@
+{
+  "photos": [
+    {
+      "data": {
+        "url": "logo.png",
+        "author": "User1",
+        "keywords": "123"
+      },
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+.post{
+    border: 1px solid black;
+    display: grid;
+    margin:1rem;
+    grid-template-columns: 1fr 11fr;
+}
+.logoImage{
+    width:5rem;
+    height:5rem;
+}
+.author{
+    text-align: center;
+    margin: 0;
+    padding:0;
+}
+.title{
+    font-size:1.3rem;
+    padding-top: 0.2rem;
+    font-weight: bold;
+}
+.logo{
+    text-align: center;
+}
+.text{
+    margin: 0;
+    padding: 0;
+    padding-top:0.2rem;
+    width: 90%;
+}

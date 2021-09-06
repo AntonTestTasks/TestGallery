@@ -1,0 +1,25 @@
+.pagination{
+    text-align: center;
+}
+.paginationButton{
+    width:10%;
+    height:1.7rem;
+    background-color: rgb(223, 223, 223);
+    border-radius: 0.3rem;
+    transition: 0.4s;
+    border:2px solid grey;
+    -webkit-border-radius: 0.3rem;
+    -moz-border-radius: 0.3rem;
+    -ms-border-radius: 0.3rem;
+    -o-border-radius: 0.3rem;
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+}
+.paginationButton:hover{
+    background-color: rgb(238, 238, 238);
+}
+.paginationButton:nth-child(1){
+    margin-right: 1rem;
+}

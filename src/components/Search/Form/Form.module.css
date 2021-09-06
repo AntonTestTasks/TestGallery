@@ -1,0 +1,31 @@
+.formDiv{
+    text-align: center;
+    display:grid;
+    height:50vh;
+}
+.form{
+    margin:8rem 0 8rem 0 ;
+}
+.titleText{
+    font-size:2.5rem;
+    font-weight: bold;
+}
+.title{
+    margin: 2rem;
+}
+.search{
+    width: 40%;
+    height:3rem;
+    font-size: 1.5rem;
+}
+.formSubmit{
+    width:10rem;
+    cursor: pointer;
+    padding: 0.7rem;
+    background-color: #00c410;
+    transition: 0.4s;
+    font-size: 1.5rem;
+}
+.formSubmit:hover{
+    background-color:#00e613;
+}
